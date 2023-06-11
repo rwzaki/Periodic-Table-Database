@@ -1,0 +1,9 @@
+fb8fb4e feat: Adding sql file
+1a3ed30 feat: adding comments to ease readibility
+e4e212e feat: creating and utilizing functions for outputting messages
+f9ad32c feat: adding message when the input doesn't exist in the database
+e38b2eb feat: adding conditions to check input existency on database
+5906407 feat: get element description by inputting element name
+3b9db2b feat: get element description by inputting symbol
+caf3cfd feat: get element description by inputting atomic number
+0cc9dc7 Initial commit
